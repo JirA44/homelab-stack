@@ -14,6 +14,20 @@
 
 ---
 
+## Présentation en français
+
+HomeLab Stack est une plateforme d’auto-hébergement pour déployer des services sur un serveur domestique ou un VPS. Le README décrit reverse proxy, SSO, supervision, alertes et sauvegardes.
+
+### À quoi ça sert, et pourquoi ?
+
+Elle regroupe l’installation de plusieurs services dans une configuration commune, au lieu de gérer chaque conteneur séparément.
+
+### Exemple
+
+Sur un serveur de test, suivre le démarrage rapide, examiner les services exposés puis vérifier ports, comptes, certificats et sauvegardes avant d’ouvrir l’accès réseau.
+
+Vérifier les versions, secrets et réglages de sécurité avant toute exposition publique.
+
 ## 🚀 Quick Start
 
 ```bash
